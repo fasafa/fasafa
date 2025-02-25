@@ -1,7 +1,6 @@
 
-![Image](https://github.com/user-attachments/assets/1cc7b7c7-8fb9-44a9-8be6-1ab417411c4f)
 ## Hi there 👋
-
+![Image](https://github.com/user-attachments/assets/9cce1ffa-edc9-4f43-9e22-3fd11b5fbc97)
 <!--
 **fasafa/fasafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
