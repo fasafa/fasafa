@@ -12,18 +12,18 @@ A passionate **Machine Learning enthusiast** from India, eager to turn data into
 - 📫 [LinkedIn](https://www.linkedin.com/in/safa1998/) | ✉️ [Gmail](mailto:safa.ps1998@gmail.com)  
 - ⚡ **Fun fact:** I teach machines to learn, but they still can’t predict my late-night snack choices! 🍕🤖😂
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasafa&show_icons=true&theme=radical)
-
-
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fasafa&layout=compact&theme=radical)
-
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fasafa&theme=radical)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fasafa&theme=radical)
-
-### Languages & Tools  
+- ### Languages & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasafa&show_icons=true&theme=radical)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fasafa&layout=compact&theme=radical)
+
+
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fasafa&theme=radical) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fasafa&theme=radical)
+
 
 
 
