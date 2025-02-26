@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on exciting ML projects (open to ideas!).
 - 🤔 I’m looking for help with Deep Learning.
 - 💬 Ask me about anything related to Data Science.
-- 📫 How to reach me: LinkedIn.
--⚡ Fun fact: I can train a model to detect phishing, but I still fall for “free pizza” scams. 🍕😂
+- 📫 How to reach me: 📫 [LinkedIn](https://www.linkedin.com/in/safa1998/)
+-⚡ Fun fact: I can train a model to detect phishing, but I still fall for “free pizza” scams🍕😂
 
