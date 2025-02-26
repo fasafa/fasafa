@@ -12,14 +12,14 @@ A passionate **Machine Learning enthusiast** from India, eager to turn data into
 - 📫 [LinkedIn](https://www.linkedin.com/in/safa1998/) | ✉️ [Gmail](mailto:safa.ps1998@gmail.com)  
 - ⚡ **Fun fact:** I teach machines to learn, but they still can’t predict my late-night snack choices! 🍕🤖😂
  
-### Programming Languages  
+### Programming Languages                                                                                     ### Data Science & Machine Learning  
+                                                                                       ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+                                                                                       ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+                                                                                       ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+                                                                                       ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-### Data Science & Machine Learning  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
+ 
 
 ### Web Development  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
