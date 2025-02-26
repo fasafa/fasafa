@@ -12,14 +12,14 @@ A passionate **Machine Learning enthusiast** from India, eager to turn data into
 - 📫 [LinkedIn](https://www.linkedin.com/in/safa1998/) | ✉️ [Gmail](mailto:safa.ps1998@gmail.com)  
 - ⚡ **Fun fact:** I teach machines to learn, but they still can’t predict my late-night snack choices 🍕🤖😂
 
+
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fasafa&theme=onedark)
 
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasafa&show_icons=true&theme=onedark)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fasafa&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasafa&show_icons=true&theme=onedark)   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fasafa&theme=onedark)
 
-
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fasafa&theme=onedark)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fasafa&layout=compact&theme=radical)
 
 
 
