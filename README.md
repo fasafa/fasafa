@@ -15,10 +15,10 @@ A passionate **Machine Learning enthusiast** from India, eager to turn data into
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fasafa&theme=algolia)
 
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasafa&show_icons=true&theme=radical)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fasafa&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasafa&show_icons=true&theme=onedark)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fasafa&layout=compact&theme=radical)
 
 
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fasafa&theme=radical)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fasafa&theme=gruvbox)
 
 
 
