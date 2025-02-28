@@ -6,8 +6,7 @@
 - ![Profile Views](https://komarev.com/ghpvc/?username=fasafa&color=blue)  
 
 ## 🚀 Machine Learning & Data Science Enthusiast  
-🚀 <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="20px"> Machine Learning & Data Science Enthusiast
-<img src="https://media.giphy.com/media/13p77tfexyLtx6/giphy.gif" width="50px"> **Machine Learning & Data Science Enthusiast**
+![Dancing Text](https://your-uploaded-gif-url.com)
 
 
 A passionate **Machine Learning enthusiast** from India, eager to turn data into **intelligent solutions**. I love exploring **data-driven applications**, building predictive models, and solving **real-world problems** with AI.  
