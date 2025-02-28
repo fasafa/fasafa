@@ -12,7 +12,7 @@ A passionate **Machine Learning enthusiast** from India, eager to turn data into
 - 📫 [LinkedIn](https://www.linkedin.com/in/safa1998/) | ✉️ [Gmail](mailto:safa.ps1998@gmail.com)  
 - ⚡ **Fun fact:** I teach machines to learn, but they still can’t predict my late-night snack choices 🍕😂
  
-                                                                                            ![Profile Views](https://komarev.com/ghpvc/?username=fasafa&color=blue) 
+  ![Profile Views](https://komarev.com/ghpvc/?username=fasafa&color=blue) 
  
  
 
