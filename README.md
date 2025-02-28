@@ -1,6 +1,7 @@
 
 ![Image](https://github.com/user-attachments/assets/3244c5cc-2129-4562-a009-4934b72c9f38)
-## Hi there 👋, I am Safa  😊 ![Animated Emoji](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+##  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I am Safa 😊
+
 
 - ![Profile Views](https://komarev.com/ghpvc/?username=fasafa&color=blue)  
 
