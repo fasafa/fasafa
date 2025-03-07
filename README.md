@@ -1,4 +1,4 @@
-<!-- Uploading "git2.gif"... -->
+ Uploading "git2.gif"... 
 ##  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I am Safa 😊
 
 ## 🚀 Machine Learning & Data Science Enthusiast  
