@@ -1,4 +1,4 @@
- Uploading "git2.gif"... 
+ ![Image](https://github.com/user-attachments/assets/3388d302-b8a5-4c03-8047-36b6bb52815f)
 ##  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I am Safa 😊
 
 ## 🚀 Machine Learning & Data Science Enthusiast  
