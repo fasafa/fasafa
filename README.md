@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/f5f9c0e0-204b-435c-9585-e4f8aca7f522)
+![Image](https://github.com/user-attachments/assets/1212059b-f30e-418a-af35-4385233794c2)
 ##  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I am Safa 😊
 
 ## 🚀 Machine Learning & Data Science Enthusiast  
