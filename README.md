@@ -19,7 +19,7 @@ A passionate **Machine Learning enthusiast** from India, eager to turn data into
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fasafa&theme=onedark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasafa&show_icons=true&theme=onedark) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fasafa&layout=compact&theme=radical)
-![Image](https://github.com/user-attachments/assets/1212059b-f30e-418a-af35-4385233794c2)-->gif
+![Image](https://github.com/user-attachments/assets/1212059b-f30e-418a-af35-4385233794c2)
 -->
 
 
