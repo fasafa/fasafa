@@ -1,12 +1,11 @@
 ![Image](https://github.com/user-attachments/assets/1d235a98-d89f-41e6-8461-956dcb48f840)
 ##  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I am Safa 😊
 
-## 🚀 Machine Learning & Data Science Enthusiast  
+## 🚀 AI Intern @Banao Technologies
 
-A passionate **Machine Learning enthusiast** from India, eager to turn data into **intelligent solutions**. I love exploring **data-driven applications**, building predictive models, and solving **real-world problems** with AI.  
+A passionate **AI enthusiast** from India, eager to turn data into **intelligent solutions**. I love exploring **data-driven applications**, building predictive models, and solving **real-world problems** with AI.  
 
-- 🔍 **Curious about:** Machine Learning, Deep Learning, and AI-powered solutions.  
-- 💡 **Currently working on:** Sign Language Detection using Yolo.  
+  
 - 📫 [LinkedIn](https://www.linkedin.com/in/safa1998/) | ✉️ [Gmail](mailto:safa.ps1998@gmail.com)  
  
   ![Profile Views](https://komarev.com/ghpvc/?username=fasafa&color=blue) 
