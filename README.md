@@ -1,6 +1,9 @@
 ![Image](https://github.com/user-attachments/assets/1d235a98-d89f-41e6-8461-956dcb48f840)
 ##  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I am Safa 😊
 
+👋 Hi, I'm Safa P. S
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+ML+Developer;AI+Intern+at+Banao+Technologies;Building+Agentic+RAG+Systems;Fine-Tuning+LLMs+%26+Vision+Models;Passionate+about+AI+Innovation+🚀" alt="Typing Animation"> </p>
+
 ## 🚀 AI Intern @Banao Technologies
 
 A passionate **AI enthusiast** from India, eager to turn data into **intelligent solutions**. I love exploring **data-driven applications**, building predictive models, and solving **real-world problems** with AI.  
