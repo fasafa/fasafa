@@ -7,7 +7,7 @@
 A passionate **AI enthusiast** from India, eager to turn data into **intelligent solutions**. I love exploring **data-driven applications**, building predictive models, and solving **real-world problems** with AI.  
 
   
-- 📫 [LinkedIn](https://www.linkedin.com/in/safa1998/) | ✉️ [Gmail](mailto:safa.ps1998@gmail.com)  
+- 📫 [LinkedIn](www.linkedin.com/in/safa-p-s) | ✉️ [Gmail](mailto:safa.ps.workmail@gmail.com)  
  
   ![Profile Views](https://komarev.com/ghpvc/?username=fasafa&color=blue) 
  
